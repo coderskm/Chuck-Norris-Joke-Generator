@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.btn{
+  background-color: red;
+  color: antiquewhite;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  font-weight:bolder;
+  font-size: large;
+}
+
+.container{
+  background-color: aqua;
+  
+}
